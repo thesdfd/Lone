@@ -1,2 +1,2 @@
-# Lone
-Write a bit about yourself
+#README
+THis is an introductory.
